@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+.announcement {
+    background-color: blue; /* Red background color for announcement */
+    padding: 8px; /* Padding inside announcement */
+}
+body{
+    background-color: black;
+}
+.title{
+    color: silver;
+    font-family: "Open Sans", sans-serif;
+}
+.txt1{
+    color: silver;
+    font-family: "Open Sans", sans-serif;
+    font-size: 20px;
+}
+a{
+    text-decoration: none; /* Removes the underline */
+    color: red; /* Light gray color for the text */
+}
