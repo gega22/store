@@ -19,3 +19,8 @@ a{
     text-decoration: none; /* Removes the underline */
     color: red; /* Light gray color for the text */
 }
+.refresh-site{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: yellow;
+}
